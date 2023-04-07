@@ -4,6 +4,6 @@ heading {
     font-size: larger;
 }
 .myDIV {
-    border: 4px dotted green;
+    border: 4px dotted rgb(128, 0, 0);
     padding: 12px 24px;
 }
