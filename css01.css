@@ -1,5 +1,6 @@
 .myDIV{
     border: 6px dotted gold;
+    outline: 12px solid red;
 }
 
 .myDIV ul heading {
