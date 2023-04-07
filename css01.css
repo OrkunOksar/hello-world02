@@ -1,0 +1,10 @@
+.myDIV{
+    border: 2px solid black;
+}
+
+.myDIV ul heading {
+    color: red;
+}
+.myDIV ul li {
+    line-height: 1.4;
+}
